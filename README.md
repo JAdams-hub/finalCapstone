@@ -13,7 +13,7 @@ Open your terminal or command prompt.
 1) Use 'cd' to change your directory then add/type your directory to initialize the directory of which you will place the local repository.
 2) Use the command 'git init'
 ### Cloning the finalCapstone repository:
-1) Enter 'git clone (https://github.com/JAdams-hub/finalCapstone)'
+1) Enter 'git clone https://github.com/JAdams-hub/finalCapstone'
 
 ## Using the program
 ### Files:
